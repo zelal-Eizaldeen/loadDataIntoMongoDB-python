@@ -1,4 +1,5 @@
-1.Install prerequisite packages if you haven’t. In your OS (Windows, Mac, or Linux) terminal, run the following:
+1.Install prerequisite packages if you haven’t.
+In your OS (Windows, Mac, or Linux) terminal, run the following:
 $ pip3 install pymongo
 2. Change directory (cd) to your data folder (assuming that Materials such as .csv, .json, .py files are in the same folder).
 Run the python script LoadMongoDB.py to load data (this may take a while).
